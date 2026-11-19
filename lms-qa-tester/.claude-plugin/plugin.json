@@ -1,0 +1,8 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "lms-qa-tester",
+  "version": "0.1.0",
+  "description": "LMS QA Tester: walks through an LMS course in the browser and writes separate reports on technical bugs, grammar, punctuation and age suitability.",
+  "author": { "name": "ISDC QA" },
+  "skills": ["./"]
+}

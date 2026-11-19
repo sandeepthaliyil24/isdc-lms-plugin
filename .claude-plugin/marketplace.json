@@ -1,0 +1,13 @@
+{
+  "name": "lms-qa-tools",
+  "owner": { "name": "ISDC QA" },
+  "description": "Plugins for testing ISDC LMS courses.",
+  "plugins": [
+    {
+      "name": "lms-qa-tester",
+      "source": "./lms-qa-tester",
+      "description": "LMS QA Tester: walks through an LMS course in the browser and writes separate reports on technical bugs, grammar, punctuation and age suitability.",
+      "version": "0.1.0"
+    }
+  ]
+}
